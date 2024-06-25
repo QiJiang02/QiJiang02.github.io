@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,3 @@ I am a GIS student, having graduated with a bachelor's degree in GIS from [the S
 
 You can find my CV here:[QiJiang's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](mailto:jq20020208@outlook.com)/[Github](https://github.com/QiJiang02)
